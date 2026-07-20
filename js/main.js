@@ -74,8 +74,7 @@
 
 
     // Header carousel
-   
-const slider = document.querySelector('.slider');
+ const slider = document.querySelector('.slider');
 
 function activate(e) {
   const items = document.querySelectorAll('.item');
@@ -84,7 +83,6 @@ function activate(e) {
 }
 
 document.addEventListener('click',activate,false);
-
     // Testimonials carousel
     $(".testimonial-carousel").owlCarousel({
         items: 1,
