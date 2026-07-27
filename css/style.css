@@ -502,11 +502,11 @@
 
 .testimonial-img {
     position: relative;
-<<<<<<< HEAD
+
     padding: 50px 0 45px 90px;
-=======
+
     padding: 45px 0 45px 90px;
->>>>>>> 3aceb50963823d70a4eae3814086391226c60c1e
+
 }
 
 .testimonial-img::before {
@@ -514,11 +514,11 @@
     content: "";
     top: 0;
     left: 0;
-<<<<<<< HEAD
+
     width: calc(30% + 45px);
-=======
+
     width: calc(50% + 45px);
->>>>>>> 3aceb50963823d70a4eae3814086391226c60c1e
+
     height: 100%;
     background: var(--bs-primary);
     z-index: -1;
