@@ -1,6 +1,6 @@
 /********** Template CSS **********/
 :root {
-    --bs-tertiary: #797E88;
+    --bs-tertiary: #a9aeb8;
 }
 
 .back-to-top {
@@ -602,5 +602,5 @@
 }
 
 .footer .copyright {
-    border-top: 1px solid rgba(255, 255, 255, .1);
+    border-top: 1px solid rgba(3, 3, 3, 0.1);
 }
