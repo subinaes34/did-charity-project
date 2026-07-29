@@ -12,7 +12,7 @@
     --bs-red: #dc3545;
     --bs-orange: #bb906c;
     --bs-yellow: #165a6e;
-    --bs-green: #000000;
+    --bs-green: #2a6437;
     --bs-teal: #20c997;
     --bs-cyan: #0dcaf0;
     --bs-white: #fff;
@@ -234,7 +234,7 @@ sup {
 }
 
 a {
-    color: #030301;
+    color: #ccd0d8;
     text-decoration: none
 }
 

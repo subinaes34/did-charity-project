@@ -3,6 +3,10 @@
     --bs-tertiary: #a9aeb8;
 }
 
+.bg-secondary {
+    background-color: lightblue !important;
+}
+
 .back-to-top {
     position: fixed;
     display: none;
