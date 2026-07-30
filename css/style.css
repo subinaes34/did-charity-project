@@ -1,6 +1,11 @@
 /********** Template CSS **********/
 :root {
     --bs-tertiary: #a9aeb8;
+    --bs-primary: #000000;
+}
+
+.text-primary {
+    color: #000000 !important;
 }
 
 .bg-secondary {
@@ -46,6 +51,34 @@
 /*** Button ***/
 .btn {
     transition: .5s;
+}
+
+.btn-primary {
+    color: #ffffff;
+    background-color: lightblue !important;
+    border-color: lightblue !important;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active {
+    color: #ffffff;
+    background-color: #87ceeb !important;
+    border-color: #87ceeb !important;
+}
+
+.btn-secondary {
+    color: #ffffff;
+    background-color: lightblue !important;
+    border-color: lightblue !important;
+}
+
+.btn-secondary:hover,
+.btn-secondary:focus,
+.btn-secondary:active {
+    color: #ffffff;
+    background-color: #87ceeb !important;
+    border-color: #87ceeb !important;
 }
 
 .btn-square {
